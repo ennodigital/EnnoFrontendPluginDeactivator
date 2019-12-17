@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../engine/Shopware/Components/Plugin/schema/plugin.xsd">
+<label>Frontend Plugin Deactivator</label>
+<label lang="de">Frontend Plugin Deactivator</label>
+<version>1.0.0</version>
+<copyright>(c) enno.digital GmbH</copyright>
+<license>Proprietär</license>
+<link>https://www.enno.digital</link>
+<author>enno.digital GmbH</author>
+<compatibility minVersion="5.3.0" />
+<changelog version="1.0.0">
+   <changes>
+        <![CDATA[
+        - First release to Shopware Community Store
+        ]]>
+   </changes>
+   <changes lang="de">
+        <![CDATA[
+        - Erstveröffentlichung im Shopware Community Store
+        ]]>
+   </changes>
+</changelog>
+<description>
+   <![CDATA[
+   <b>Frontend Plugin Deactivator</b>
+   <p>This plugin allows you to prevent other plugins from outputting to the frontend..</p>
+   <b>Contact and Support?</b>
+   <p>Please note the <a href="https://store.shopware.com/search?sSearch=Enno808473647177">plugin manual</a>.If you have any questions, requests for change, criticism, suggestions, or expect problems with the installation, then please contact us at service@enno.digital</p>
+   ]]>
+</description>
+<description lang="de">
+   <![CDATA[
+   <b>Frontend Plugin Deaktivierer</b>
+   <p>Dieses Plugin ermöglicht es andere Plugins von der Ausgabe im Frontend abzuhalten.</p>
+   <b>Kontakt und Support</b>
+   <p>Bitte beachten sie die <a href="https://store.shopware.com/search?sSearch=Enno808473647177">Plugin Anleitung</a>. Sollten Sie Fragen, Änderungswünsche, Kritik, Anregungen oder wider erwarten Probleme bei der Installation haben, dann kontaktieren Sie uns bitte umgehend unter service@enno.digital</p>
+   <p>Hinweis: Das Plugin kann auch für niedrigere Shopware Versionen, mittels einer kleine Änderungen im Shopware Kern, kompatibel gemacht werden. Bitte kontaktieren Sie uns, falls Sie Interesse daran haben sollten.</p>
+   ]]>
+</description>
+</plugin>
